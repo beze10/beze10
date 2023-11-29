@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @beze10
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java, Javascript and React 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me insta: @b.eze10
+- 📫 How to reach me - gmail:tochiezeanya1400@gmail.com
 
 <!---
 beze10/beze10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
