@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beze10
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java, Javascript and React 
+- 🌱 I’m currently sharpening my skills in Java
 - 📫 How to reach me - gmail: tochiezeanya1400@gmail.com
 
 <!---
