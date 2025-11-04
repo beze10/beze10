@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beze10
 - 👀 I’m interested in coding
-- 🌱 I’m currently sharpening my skills in Java
+- 🌱 I’m currently sharpening my skills in DevOps and Programming
 - 📫 How to reach me - Email: brian.ezeanya.2023@mumail.ie
 
 <!---
