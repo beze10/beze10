@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beze10
+- 👋 Hi, I’m Brian Ezeanya
 - 👀 I’m interested in coding
 - 🌱 I’m currently sharpening my skills in DevOps and Programming
 - 📫 How to reach me - Email: brianezeanya04@gmail.com
