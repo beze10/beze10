@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brian Ezeanya
 - 👀 I’m interested in coding
-- 🌱 I’m currently sharpening my skills in DevOps and Programming
+- 🌱 I’m currently sharpening my skills in DevOps and Software Engineering
 - 📫 How to reach me - Email: brianezeanya04@gmail.com
 
 <!---
